@@ -40,7 +40,8 @@ Student CGPA Calculator is a web-based application developed using HTML, CSS, an
 
 ## 📱 Screenshots
 
-Screenshots of the project are available in the **screenshots** folder.
+<img width="1355" height="675" alt="image" src="https://github.com/user-attachments/assets/6502c936-9cb2-44c6-b21b-f989ee42a556" />
+
 
 ## 👨‍💻 Author
 
