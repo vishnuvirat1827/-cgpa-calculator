@@ -48,8 +48,8 @@ G C Vishnu Yadav
 
 ## 🔗 Live Demo
 
-Paste your GitHub Pages link here.
+https://vishnuvirat1827.github.io/-cgpa-calculator/
 
 ## 🔗 Source Code
 
-Paste your GitHub Repository link here.
+https://github.com/vishnuvirat1827/-cgpa-calculator
