@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student CGPA Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🎓 Student CGPA Calculator</h1>
+
+    <div class="input-section">
+
+        <input type="text" id="subject" placeholder="Subject Name">
+
+        <select id="grade">
+            <option value="10">O</option>
+            <option value="9">A+</option>
+            <option value="8">A</option>
+            <option value="7">B+</option>
+            <option value="6">B</option>
+            <option value="5">C</option>
+        </select>
+
+        <input type="number" id="credits" placeholder="Credits">
+
+        <button onclick="addSubject()">Add Subject</button>
+
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Subject</th>
+                <th>Grade</th>
+                <th>Credits</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody id="subjectList"></tbody>
+    </table>
+
+    <div class="result">
+        <h2>CGPA : <span id="cgpa">0.00</span></h2>
+    </div>
+
+    <footer>
+        Created by G C Vishnu Yadav
+    </footer>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
